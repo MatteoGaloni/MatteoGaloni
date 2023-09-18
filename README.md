@@ -9,3 +9,4 @@ problems, to find the missing piece, and to
 put the puzzle back together.
 <hr>
 
+![stacks](https://github.com/MatteoGaloni/MatteoGaloni/assets/122353455/68f78224-2b75-42ad-bd29-5db2afe937a2)
