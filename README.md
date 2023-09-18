@@ -1,7 +1,7 @@
 ### Hello there, I am Matteo 👋
 <hr>
 🎯if Chaos then Focus.
-<hr>
+
 When something breaks or doesn't work,
 I enjoy fixing it. That's why I plunged headfirst
 into the world of programming, to solve
