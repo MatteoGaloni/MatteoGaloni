@@ -8,5 +8,4 @@ into the world of programming, to solve
 problems, to find the missing piece, and to
 put the puzzle back together.
 <hr>
-![image](https://github.com/MatteoGaloni/MatteoGaloni/assets/122353455/f89c5c37-c823-4afb-8025-9e17c715ce87)
 
