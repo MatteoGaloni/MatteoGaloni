@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello there, I am Matteo 👋
+<hr>
+🎯if Chaos then Focus.
+<hr>
+When something breaks or doesn't work,
+I enjoy fixing it. That's why I plunged headfirst
+into the world of programming, to solve
+problems, to find the missing piece, and to
+put the puzzle back together.
+<hr>
+![image](https://github.com/MatteoGaloni/MatteoGaloni/assets/122353455/f89c5c37-c823-4afb-8025-9e17c715ce87)
 
-<!--
-**MatteoGaloni/MatteoGaloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
